@@ -1,5 +1,5 @@
 # JS Tag Insert To Target Element function
-JavaScript Insert Tag in other target element using tag ID JS Function. ex. inserafter(); of jQuery.
+JavaScript Insert Tag in other target element using tag ID JS Function. ex. insertAfter(); of jQuery.
 
 <br /> Element.insertAdjacentElement();
 <br /> Reference: 
