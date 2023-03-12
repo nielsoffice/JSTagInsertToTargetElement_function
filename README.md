@@ -46,4 +46,8 @@ ex.
 <br /> Reference: 
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/prepend
 
+<br /> Element.append()
+<br /> Reference: 
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/append
+
 Demo : https://github.com/nielsoffice/JSScriptLoadAfterBody
