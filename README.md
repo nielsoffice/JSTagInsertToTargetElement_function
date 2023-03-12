@@ -42,6 +42,10 @@ ex.
 <br /> Reference: 
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/after
 
+<br /> Element.before();
+<br /> Reference: 
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/before
+
 <br /> Element.prepend()
 <br /> Reference: 
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/prepend
@@ -49,5 +53,9 @@ ex.
 <br /> Element.append()
 <br /> Reference: 
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/append
+
+<br /> Element.closest()
+<br /> Reference: 
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/closest
 
 Demo : https://github.com/nielsoffice/JSScriptLoadAfterBody
